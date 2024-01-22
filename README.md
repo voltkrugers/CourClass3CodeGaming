@@ -3,6 +3,7 @@
 liste des chose a faire durant la scéance : 
   - importé des assets afin de améliorer le visuel du jeux
   - écrire le code PickUpObject en expliquant ligne par ligne ce que l'on fais.
+  - Mettre le projet sur un repo GitHub en expliquant si il souhaite le recupérer comment le faire.
 
 
 étape pour que le code soit fonctionnelle :
@@ -14,4 +15,6 @@ liste des chose a faire durant la scéance :
   - dans le component rigidbody cliqué sur constraint et coché toutes les cases.
   - ensuité ajouté un Tag "Obj" sur cette objet.
   - maintenant il reste plus que a tester.
+
+
  
